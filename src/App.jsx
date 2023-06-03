@@ -74,11 +74,7 @@ export function App() {
           : "black",
       }}
     >
-      {/* <iframe src='https://chaturbate.com/in/?tour=SHBY&campaign=AuS5L&track=embed&room=maryjane_314&bgcolor=white' height="528" width="850"></iframe> */}
-      <a href = "https://chaturbate.com/in/?tour=7Bge&campaign=AuS5L&room=maryjane_314">Click me</a>
-      <object data="https://chat.openai.com/" width="600" height="400" type="text/html"></object>
-      <iframe src='https://chaturbate.com/in/?tour=SHBY&campaign=AuS5L&track=embed&room=maryjane_314&bgcolor=white' height="528" width="850"></iframe>
-
+    
       <div className={s.header}>
         <div className="row">
           <div className="col-4">
